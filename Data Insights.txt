@@ -1,0 +1,10 @@
+1) Amount of content added on Netflix each year 
+2) Types of content in Netflix 
+3) Top rating Tv shows on Netflix 
+4) Top rating Movie shows on Netflix 
+5) Top 10 countries where content on Netflix was produced 
+6) Top 5 Directors on Netflix 
+7) Top 5 Actors on Netflix
+8) Country wise content added in Netflix
+9) Top listed Tv shows
+10) Top listed Movie shows

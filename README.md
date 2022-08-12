@@ -19,7 +19,7 @@ Netflix, Inc. is an American subscription streaming service and production compa
                                     --------- Description
                             
 
-                           * From the Data file we visualised : 
+                           * From the Data file I visualised : 
                                              1) Amount of content added on Netflix each year 
                                              2) Types of content in Netflix 
                                              3) Top rating Tv shows on Netflix 
@@ -30,4 +30,14 @@ Netflix, Inc. is an American subscription streaming service and production compa
                                              8) Country wise content added in Netflix
                                              9) Top listed Tv shows
                                              10) Top listed Movie shows
+                                             
+                                             
+![image](https://user-images.githubusercontent.com/59098528/184389135-0b2935d9-28d9-42e4-8c77-90630438949f.png)
 
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/59098528/184389385-7a474bdd-0429-4483-b086-77100ac0e093.png)

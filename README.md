@@ -3,6 +3,7 @@
 
 Netflix, Inc. is an American subscription streaming service and production company based in Los Gatos, California. Founded on August 29, 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California, it offers a film and television series library through distribution deals as well as its own productions, known as Netflix Originals.
 
+
                            * The data file contiains:
                                     --------- Show Id
                                     --------- Type of Shows( Movies or Tv Shows )
